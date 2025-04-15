@@ -2,6 +2,10 @@
 
 This repository contains a family website with HTML pages and images. The site includes family tree information, photographs, and genealogical data.
 
+## Website Access
+
+The family website is accessible at: https://tamirgal.github.io/epatan/
+
 ## Contents
 
 - HTML pages: Various .htm files containing family information
